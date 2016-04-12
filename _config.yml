@@ -5,3 +5,6 @@ url: http://zebular13.github.io
 permalink: /blog/:year/:month/:day/:title
 title: Zebular13
 paginate: 10
+paginate_path: "/blog/page:num/"
+gems:
+  - jekyll-sitemap
