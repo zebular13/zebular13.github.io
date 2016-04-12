@@ -9,7 +9,7 @@
 
 body{
     line-height: 1.6em;
-    font-family: Arial,sans-serif;
+    font-family: 'Libre Baskerville',sans-serif;
     color: #444;
     padding-top: 20px
 }
@@ -27,12 +27,27 @@ a:hover{
     margin: 0 auto;
 }
 
-nav{
-    text-align: center
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
 }
-nav a{
-  padding: 0 5px;
-  font-size: 90%;
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
 }
 header{
     font-family: 'Libre Baskerville', Georgia;
