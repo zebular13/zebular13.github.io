@@ -1,6 +1,5 @@
 excerpt_separator: ""
-pygments: true
-#markdown: kramdown
+#pygments: true
 url: http://zebular13.github.io
 permalink: /blog/:year/:month/:day/:title
 title: Zebular13
@@ -13,7 +12,7 @@ auto: false
 server: false  
 lsi: false  
 markdown: rdiscount  
-highlighter: true  
+highlighter: rouge  
 category_dir: topics  
 category_title_prefix:  
 exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp"]  
