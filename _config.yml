@@ -1,6 +1,6 @@
 excerpt_separator: ""
 pygments: true
-markdown: kramdown
+#markdown: kramdown
 url: http://zebular13.github.io
 permalink: /blog/:year/:month/:day/:title
 title: Zebular13
@@ -8,3 +8,12 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 gems:
   - jekyll-sitemap
+auto: false  
+server: false  
+lsi: false  
+markdown: rdiscount  
+pygments: true  
+category_dir: topics  
+category_title_prefix:  
+exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp"]  
+destination: public  
