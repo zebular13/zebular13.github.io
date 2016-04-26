@@ -11,7 +11,7 @@ gems:
 auto: false  
 server: false  
 lsi: false  
-markdown: rdiscount  
+markdown: kramdown  
 highlighter: rouge  
 category_dir: topics  
 category_title_prefix:  
