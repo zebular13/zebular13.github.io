@@ -1,0 +1,70 @@
+---
+author: No Content Found
+comments: true
+date: 2012-09-10 20:12:24+00:00
+layout: post
+link: /writing/204
+slug: '204'
+title: 'The Future is Here: DIY 3D Printing'
+wordpress_id: 79
+categories:
+- technology
+- makerspace
+- 3D Printing
+---
+
+I watched as a coil of white plastic was pulled off of a spool into the plywood frame, forced into a metal head, and squeezed out, partially melted, onto a the smooth metal surface that moved in precise circles. Layer after layer of thin melted plastic slowly gave shape to a round object.  When it was finished, the Makerbot Vulcan pushed the round object out onto the table, where it landed with a soft bounce. I picked it up and slid it on. It stretched over my hand and slipped on like a bracelet, my first piece of 3D printed jewelry.
+I was at the 3D printer Survey hosted by [StudentRND](http://studentrnd.org/). I’d sent a link to my coworker Scott the week before about how 3D printing is changing our economy. Scott, who hadn’t realized how far 3D technology has progressed in the past year, immediately caught the bug. We started talking about chipping in to buy a 3D printer together. The 3D Printer Survey looked like the perfect chance to experience consumer level 3D printers and possibly make a decision on which 3D printer we wanted to buy.
+
+
+
+
+At the survey, Craig Zupke presented a useful prezi titled ‘[Your Path To a 3D printer](http://prezi.com/tj7hhoydn5xr/3d-printer-survey/).’ He talked about the inverse relationship of price to maintenance. Basically, you can get a 3D printer for $500 if you’re willing to build it from scratch and maintain it yourself. Otherwise, plan on shelling out $12-$15K. One of the things that makes these printers more affordable is that they are self-replicating. Once you have one, you can print out up to 80% of the parts for another one.
+
+
+
+
+[Reprap.org](http://reprap.org/) is the main site for self-replicating 3D printers. The first self-replicating 3D printer came out in 2008, and since then growth has been exponential, as makers modify and improve on the open-source designs.
+
+
+
+
+Currently, there are only a handful of 3D printers available at consumer price-points. The [Makerbot printer](http://www.makerbot.com/) is probably the most famous. Emmett, creator of the famous ‘gear-heart’ design, showed us his two printers, the Vulcan and the Venus. The Vulcan was one of the very first 3D printers, and it prints its own upgrades. The automated build platform was one of the upgrades, and it makes it easy to mass-print 3D parts. Emmett was mass-printing bracelets as we watched.
+
+
+
+
+The Venus is a newer printer, and Emmett showed us how it could print 2 different colors of plastic at once, making multicolored objects. The precision and level of detail was impressive.
+
+
+
+
+Another person had brought his Makerbot replicator. It’s similar to the Venus, and he praised the easy setup and ease of calibration. He also gave us a pro-tip: don’t use ALS plastic, use PLA. The plastic used in DIY 3D printers comes in a spool of thin tubing. ALS is the smelly, non-natural plastic that is used frequently in toy-making. PLA is a biodegradable, odorless plastic that needs less heat and does less wear and tear on the 3D printer.
+
+
+
+
+Craig’s printer was a [MendelMax](http://mendelmax.com/tikiwiki/tiki-index.php?page=MendelMax) and Craig had built it himself. He showed us some cool 3D models that he had created by scanning himself and his daughter using a sensor bar hooked up to his Nintendo (I think? I know you can also do this by using a Wiimote with Autodesk.)
+
+
+
+
+Another woman showed off her [Ultimaker](http://www.ultimaker.com/) printer. The objects that she showed us had an incredible level of detail, much finer than any of the other objects we’d seen printed on the other printers. Unfortunately, she told us, she couldn’t recommend Ultimaker as a company. Some of her parts didn’t work when the printer was first shipped, and they hadn’t given her a free replacement. Also, they are based in the Netherlands and are slightly pricier than most US based DIY printers.
+
+
+
+
+Finally, Johann showed off his Rostock Printer. It literally is DIY – Johann designed and built it himself. He offers the plans for free at [thingiverse.com/thing:17175](http://thingiverse.com/thing:17175) or [reprap.org/wiki/Rostock](http://reprap.org/wiki/Rostock).
+
+
+
+
+He explained to us that the Rostock is named after the town he grew up in in Northern Germany. Johann was printing out parts for the second generation Rostock printer as we talked to him. He held up what he had built so far on the second version, a light-weight frame made of [openbeam ](http://www.kickstarter.com/projects/ttstam/openbeam-an-open-source-miniature-construction-sys)and printed plastic parts.
+
+
+
+
+The first-generation Rostock was fast and worked beautifully. It can print objects as large as 12x14 inches and is incredibly sturdy and accurate. Unlike most of the other 3D printers that we’d seen, the engines, wiring, and arduino that power the whole thing are aesthetically tucked out of sight below the printer. All the parts, Johann told us, could be bought for $500. Scott and I were both impressed. We’re not buying a 3D printer yet, but I know that I’ll definitely be attending the next 3D printer Survey.
+
+
+

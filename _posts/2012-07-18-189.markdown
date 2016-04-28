@@ -1,0 +1,32 @@
+---
+author: No Content Found
+comments: true
+date: 2012-07-18 01:56:57+00:00
+layout: post
+link: /writing/189
+slug: '189'
+title: Seattle Startup Weekend - Women's Edition
+wordpress_id: 75
+categories:
+- technology
+- women in tech
+- web development
+---
+
+I had the privilege of attending Seattle Startup Weekend’s first woman focused event this past weekend. I say priviledge because there was a waitlist of over 100 women who weren’t able to come, in addition to the ~70 who did. I like to think that I helped to contribute to this wait list, since I did my best to promote the event to any design, technical, or business minded women whom I know. Unfortunately, I don’t know many. Actually that should be in past tense, because now I can say that I know quite a few.
+I expected the weekend to have a different feel to it from the mostly male startup weekend that I attended in April. Startup Weekend Women’s Edition had a ratio of men to women that was roughly the inverse of an average Startup Weekend. So how different was it to attend a startup even that was 75% women? Honestly, there was no difference. There was still that tangible energy. The sense of complete and utter focus and the do or die mentality was electric. It was fun!
+
+
+
+
+And why would it be different? It’s not like we spent the weekend talking about our uteri. We spent it pumping out code, crafting business models, and doing market research. My team and I stayed up until 4am Saturday night working on our project. The only differences I noticed were that there were more macbooks, the food served was veggies and wine (as opposed to beer and pizza) and the t-shirts actually fit.
+
+
+
+
+While I had a blast at the mostly male startup weekend in May and made some great connections, I think that women’s edition of startup weekend had greater benefits for me. In any realm, from sports to business to technology, men are too quick to offer help and often end up overshadowing the women who meekly accept their help. Oftentimes it seems like men, especially older men, assume that they know more just because they’re men. And I think that many women have been conditioned to assume that they know less or aren’t as skillful, which makes them vulnerable to accepting a guy’s help. It was good to be an environment of mostly women, where no guy was going to pop over and suggest that I follow his lead or ask me to give him my code for him to "fix" it. I'll probably delve more into this topic in a later blog post.
+
+
+
+
+I look forward to staying connected with all of the incredible women I met this weekend. Also, if you were a woman who attended Seattle Startup Weekend and we didn’t get a chance to connect, or if you’re a woman who would be interested in attending a startup weekend and wants to know more, feel free to comment or reach out. I’d love to get to know more startup women!

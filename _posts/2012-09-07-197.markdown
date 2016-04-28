@@ -1,0 +1,63 @@
+---
+author: No Content Found
+comments: true
+date: 2012-09-07 04:59:33+00:00
+layout: post
+link: /writing/197
+slug: '197'
+title: The Hippie Hacker
+wordpress_id: 77
+categories:
+- technology
+- Seattle
+- arduino
+- Adventure
+---
+
+Chris McClimans is tall but soft-spoken and his hair cascades over his shoulder in a tangle of thick, dirty-blond dreadlocks. He wears sandals he made himself from a piece of rubber and twine, and he carries a bulging backpack at all times. It’s not hard to believe that this man once lived in a green Volkswagon van in Austin and Boulder, or that he spent the past several years travelling around New Zealand with his now wife.
+It wouldn’t be hard to believe, either, that he is couchsurfing around Seattle at the moment, living out of said backpack as he looks for work.
+
+
+
+
+What’s remarkable is what he has in his backpack. I had the odd coincidence of running into him three days in a row at three separate technology events. Monday I ran into him at [Ruby on Rails Meetup](http://www.meetup.com/The-Seattle-Ruby-on-Rails-Developers-Meetup-Group) at the Racer Café. Tuesday he was at the monthly [Hacker News Meetup](http://www.meetup.com/HackerNewsSeattleMeetup/), where I convinced him to come to my [arduino meetup](http://www.meetup.com/Arduino/Seattle-WA/765462/) the following night. That’s when I finally got to see what exactly he carried with him in his bag.
+
+
+
+
+After the meetup we gathered round as Chris pulled several pieces of magic out of the mysterious black backpack. Item number one was an ergonomic keyboard that he typed on in Dvorak. He is clearly a man who uses his keyboard a lot and loves comfort and efficiency.
+
+
+
+
+Items two, three and four were laptops, each one covered in some of the coolest coder stickers I’ve ever seen.  You can’t always judge a man by the stickers on his laptop (for example, my laptop proudly wears a GitHub sticker while my [GitHub account](https://github.com/zebular13) remains sadly barren) but I think it’s safe to believe that every sticker on Chris’s machines represented a part of his deep knowledge of computers.
+
+
+
+
+Item number five was a small USB stick.
+
+
+
+
+This stick of memory was the magic wand from which Chris could deploy his own creation, [Instant Infrastructure (:ii)](http://www.instantinfrastructure.org/), to the whole world. He demonstrated for us on his laptop. After plugging in his USB stick he ‘factory reset’ the operating system from the stick itself. The purple background blossomed on his computer, followed by the familiar Ubuntu icons.
+
+
+
+
+Now, he explained to us, he could use Ubuntu ‘out of box experience’ (OOBE) to image his computer with the selection of open source software that he needed. For instance, if he were a doctor he could simply select the ‘doctor’ software package and it would automatically image his computer with all the tools he needed. Or if he were a teacher he could similarly image his computer with tools for teaching. Of course, the stick depends on the availability of free software that can be deployed on the computer. Chris has already demonstrated his idea to people at Dell who are coming up with a tool to share software via a Git Repositor (if you don’t know what that is, it’s basically ‘the cloud’) called '[Sputnik](http://content.dell.com/us/en/enterprise/d/campaigns/sputnik).' More than anything, Chris said, he needed developers willing to volunteer their time to create free software.
+
+
+
+
+I invited Chris to couchsurf on my boat that weekend. Although I was in and out, dancing all night Friday at a Kaskade concert and then dancing in the viral video [We’re Nasa and We Know It](http://www.youtube.com/watch?v=QFvNhsWMU0c) on Sunday, Chris and I got a brief chance to talk Saturday morning. We were munching on blueberries he brought home from the farmer’s market and sunning ourselves on the deck of my boat. I asked him how he’d come up with the idea for Instant Infrastructure and he told me about Cambodia. He spends about 60% of his time volunteering for charity and 40% working to make money.
+
+
+
+
+He spent 6 months in Battambang, Cambodia, where he taught local youth about computers. He realized that the kids there wanted to be like him. They wanted to have his fancy macbook pro and use the expensive software packages that he did. He also realized that they would probably never be able to afford to do this. Determined to bridge the technology gap, he developed Instant Infrastructure to be deployed on the cheap Windows machines in the local internet cafes. Using Ubuntu , the kids were able to master computer skills, and have even developed a site in their own language, Kmer, titled ‘[Humanity to Everyone](http://htoe.webs.com/).’
+
+
+
+
+Chris’s passion and his giving spirit were evident as he talked about the kids he’d taught.  I feel honored to have had a chance to host the ‘Hippie Hacker’ in his travels in the Northwest.

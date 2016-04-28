@@ -1,0 +1,12 @@
+---
+author: No Content Found
+comments: true
+date: 2012-04-16 15:57:00+00:00
+layout: post
+link: /writing/43
+slug: '43'
+title: A Note About Posterous
+wordpress_id: 143
+---
+
+I'm still on Posterous, and you can still find my writings and translations (and my bicycle trip) at [http://monicahouston.posterous.com](http://monicahouston.posterous.com/). I've decided to make my own blog - mostly because I am a control freak and partly because it's just safer to have my content on my own site if Twitter ever decides to get rid of Posterous (not to be alarmist - I don't really see that happening soon).

@@ -1,0 +1,27 @@
+---
+author: No Content Found
+comments: true
+date: 2012-05-01 06:49:59+00:00
+layout: post
+link: /writing/103
+slug: '103'
+title: Prioritize.
+wordpress_id: 170
+---
+
+For me, the line between insanity and boredom is about as thin as dental floss. Ever since I added my facebook events to my Google calendar (it's actually very simple - just go to your Facebook events page, click the magnifying glass, click "export events" and copy the link that pops up, then go to Google calendar and where it says "other calendars" just paste the link) my calendar has so much overlap that it looks a bit like a Mondrian. If I miss an event or barely make it, this can leave me feeling over scheduled, double-booked, and burned out. At the same time, if I actually do fulfill all of my obligations I feel energized, fulfilled and [like a boss](http://www.youtube.com/watch?v=NisCkxU544c). And since this is such a good feeling, I continue to overbook myself. If I have two or three events in the same block of time I get kind of stuck and waste time deciding which one to attend.
+I’ve always been sort of a jack of all trades (master of none), but I’ve decided to prioritize my life for the month of May so that I can get better at just a few things. So here is my priority list:
+
+
+
+
+My number one priority is work. I am so lucky to have my job and I want to do great work. Getting to work relatively well-rested (5+ hours of sleep) and on time every day is non-negotiable.
+My number two priority is sailing. This weekend is opening day for most of the local yacht clubs, and I also have several sailboats booked to look at. I’ve decided that if there is a sailing event and another event, the sailing event will always take priority. I feel very fortunate to have met the wonderful sailors at the Corinthian Yacht Club and I want to make sure that I don’t come across as a flake by bailing on any events. I also want to devote at least half an hour each day to learning more about sailing.
+My number three priority is running, although I’m not sure that this counts as a priority, since I think running is a necessity like eating or sleeping. I’m counting it as a priority, however, because I want to run more than just maintenance this month so that I can get ready for the Rothrock Challenge. If I have to make a choice between running and going out, running will come first (unless it’s my off-day).
+My number four priority is socializing and networking. This one is really going to be a challenge (not!).
+My number five priority is learning to code. Unfortunately, I’m already lagging behind in my [computer science course](http://www.cs101-class.org/), and apparently there are new code academy lessons that I haven’t even seen yet. I should designate time to this on my calendar each day to make sure that it actually gets done. I’m kind of up in the air about whether this should come after socializing or not, but since this is my third week in Seattle and I want to forge some good friendships I think I’ll leave it as priority 5.
+
+
+
+
+Now that I have my priorities set out, I can color-code my calendar events accordingly so that I know which overlapping event takes precedence.

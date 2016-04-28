@@ -1,0 +1,49 @@
+---
+author: No Content Found
+comments: true
+date: 2013-01-31 17:08:09+00:00
+layout: post
+link: /writing/231
+slug: '231'
+title: Micro Controller Library
+wordpress_id: 49
+categories:
+- Microcontrollers
+- technology
+- arduino
+- robotics
+- makerspace
+---
+
+Oh man, I’m getting excited just writing about this. So, last week I got a grant from the Awesome Foundation to make a Micro Controller Library and it’s finally coming together.
+What the hell is a Micro Controller Library? It’s basically a giant package of awesome that turns ordinary people into gods of technology.
+
+
+
+
+Library might be a misleading term, since there aren’t any books involved (although I’m currently trying to figure out licensing so that I can make some ebooks about physical computing available to you on your computer or kindle). What makes it a library is that it’s free (except for a $5 startup fee when we process you into the member database) and you can check electronics out and bring them home for up to two weeks. It’s based on the West Seattle Tool Library’s make-your-own tool library kit. Local Tools even got me set up with an [inventory site](http://microelectronicslibrary.localtools.org/library/) so I can track tools and members and you can see what’s available for checkout and reserve items. The library will have a home in the Maker Space Jigsaw Renaissance located at 821 Seattle Boulevard South.
+
+
+
+
+So far I’ve ordered eight Arduino Unos, a pair of Arduino Megas, and a Raspberry Pi. I’ve also ordered 6 different starter kits, which come with a ton of different sensors, power sources, breadboards, jumper cables, and various shields to connect different components to.
+
+
+
+
+Have you ever wanted to build an autonomous wheeled robot? I ordered a chassis and sensors so you can build one using a micro controller. And if you want your autonomous wheeled robot to take photos and upload them to you Facebook, I’ve also ordered a couple of Wi-Fi shields. Do you want to prototype a self-watering plant? There’s a soil moisture sensor that plugs directly into an Arduino.
+
+
+
+
+You can even make your own interactive, digital games using buttons, LED screens and joysticks that plug into a breadboard.
+
+
+
+
+So how do you become a library member? You don’t have to wait until the library is set up. Stop by Jigsaw Renaissance or the Seattle Arduino Meetup at The Easy next week. Bring an ID and $5 (or $10 if you want to help sponsor membership for a low income geek. Technology access for everyone!) Be prepared to spend about 20 minutes since you’ll have to read a short article about safety and not blowing things up and whatnot. Then I add your name to the database and you’re a member!
+
+
+
+
+If you have any electronics sitting around that might make a good addition to the library, please let me know! Also, donations of money and time are more than welcome. As the packages start coming in I’m going to need people to help with sorting, labeling and inventorying parts. Plus, you’ll get to be first to play with all the new electronics!
