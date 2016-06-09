@@ -4,17 +4,6 @@ title: "The Flight Home"
 date: 2016-05-04
 ---
 
----
-author: Monica Houston
-comments: true
-date: 2012-05-04 05:06:35+00:00
-layout: post
-link: /writing/1
-slug: '1'
-title: The Flight Home
-wordpress_id: 50
----
-
 This has always been my worst fear. Dad Dying. When my guinea pig Little Red died and Isaiah made him a tiny cross and wood-burned it with the fourth grade letters “R.I.P.” I realized that one day my parents would die too. That whole summer, maybe that whole year, I cried myself to sleep each night with the worry thought that Dad would die. Once he came into my bedroom and found me crying and I had to tearfully explain my anxiety.
 
 It’s happened. Somehow, miraculously, I’m able to handle it.
