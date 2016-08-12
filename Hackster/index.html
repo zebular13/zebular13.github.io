@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Meetup Groups by Member ID</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="https://rawgit.com/phstc/jquery-dateFormat/master/dist/dateFormat.min.js"></script>
+
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+    
+    $("#startDate").datepicker();
+    $("#endDate").datepicker();
+    
+        });
+  
+    function getEvents(){
+
+      var utcMilliSeconds;
+      var humanTime;
+      var startEpoch = new Date($("#startDate").datepicker("getDate")).valueOf();
+      var endEpoch = new Date($("#endDate").datepicker("getDate")).valueOf(); //$.datepicker.formatDate('@', $(this).datepicker('getDate'))
+      var startOffset = $("#startOffset").val();
+      var endOffset = $("#endOffset").val();
+      var start = "";
+      var end = "";
+      console.log(startEpoch + "," + endEpoch + "," + startOffset + "," + endOffset);
+      
+      if (isNaN(startEpoch) || (startEpoch == null) || (startEpoch == 0)){ //if no date specified
+        alert("No specific dates were specificed, will search using Offset(s) from today.");
+        start = startOffset;
+        end = endOffset;
+      }
+      else{ //dates were specified, use specific dates.
+        alert("Will now search using Specific Dates.");
+        start = startEpoch;
+        end = endEpoch;
+      }
+      
+      var URL = "https://api.meetup.com/2/events?callback=?&sign=true&member_id=194674229&page=500&offset=0&api&key=6f36f4e3c366206c4549b6f6b714d&photo-host=public&time=" + start;
+      if (end != ""){
+        URL += "," + end;
+      }
+      URL += "&status=past&only=yes_rsvp_count,time,venue,name,event_url,group";
+      
+      console.log(URL);
+      $('#query').html("<pre>"+URL+"<br><br>if ((names.match(/hack/ig || /hardware/ig)) || (eventurl.match(/hack/ig  || /hardware/ig || /seattle/ig || /devicejam/ig || /design/ig )) || (groups.match(/hack/ig  || /hardware/ig || /seattle/ig || /devicejam/ig || /design/ig ))) {</pre>");
+      
+        $.getJSON(URL,
+          function(data) {
+          try{
+            var htmlString = "";
+            var htmlString2 = "";
+            var humantime="";
+            //var names = 0;
+            var meetups = [];
+            var hacksterMeetups = 0;
+            var yesRSVP = 0;
+
+
+            $.each(data.results, function(i, item) {
+              var results = data.results.length;
+              names = item.name;
+
+              groups = item.group.name;
+              eventurl = item.event_url;
+              yes = item.yes_rsvp_count;
+              //meetups += names;
+              //hacksterMeetups = (meetups.match(/hack/i || /hackster.io/i || /hackster/i));
+              if ((names.match(/hack/ig || /hardware/ig)) || (eventurl.match(/hack/ig  || /hardware/ig || /seattle/ig || /devicejam/ig || /design/ig )) || (groups.match(/hack/ig  || /hardware/ig || /seattle/ig || /devicejam/ig || /design/ig ))) {
+                
+                utcMilliSeconds = item.time;
+                humanTime = new Date(utcMilliSeconds);
+                humanTime = DateFormat.format.date(humanTime, "MMM yyyy-MM-dd - E h:MM"); //https://github.com/phstc/jquery-dateFormat   //http://blog.stevenlevithan.com/archives/date-time-format
+                
+                yesRSVP += yes;
+                meetups.push({names});
+                htmlString2 += '<span>' + humanTime + " (epoch " + item.time + ")" + " <b>" + item.group.name + " - " +'<a href="' + item.event_url + '" target="_blank">' + item.name + '</a></b> - "YES" RSVPs: ' + item.yes_rsvp_count + '</span><br>';
+              }
+              else {
+                utcMilliSeconds = item.time;
+                humanTime = new Date(utcMilliSeconds);
+
+                //htmlString += '<p><a href="' + item.event_url + '" target="_blank">' + item.name + '</a>::: ' + item.yes_rsvp_count + ' ' + item.time + '</p>';
+                htmlString += '<span>' + humanTime + " epoch [" + item.time + "]" + " <b>" + item.group.name + " - " +'<a href="' + item.event_url + '" target="_blank">' + item.name + '</a></b> - "YES" RSVPs: ' + item.yes_rsvp_count + '</span><br>';
+              }
+            
+            });
+            console.log(yesRSVP);
+            console.log(meetups);
+            
+            $('#hacksterEvents').html(htmlString2);
+            $('#events').html(htmlString);
+        }
+        catch(err){
+          alert("something went wrong while fetching. try fixing any variable issues.\n" + err);
+        }
+        });
+      
+    }
+    </script>
+</head>
+
+<body style="font-family:'Verdana'; font-size: 12px;">
+  <p><b>Meetup Tools</b></p>
+<!--Use one OR both of the controls below to determine which events you see. For example, if today is July 10, choosing 7/1/16 AND -5 days ago will show events between 7/1/16 and 7/5/16.-->
+  <p>Show events between: <input type="text" id="startDate" size=8> and <input type="text" id="endDate" size=8><br></p>
+  - OR - 
+  <p>Show events between <input type="text" id="startOffset" value="-1m" size=3> ago and <input type="text" id="endOffset" value="0d" size=3> ago. (options are d = days, w = weeks, m = months. use negative values as you are going back in time. leave end offset at 0d for events up through today.)<br></p>
+  <button onClick="getEvents();">Show Events</button><br>
+  <br><b>Query and Filter Criteria:</b>
+  <div id="query" style="border: 1px solid red;"></div>
+    <br><b>Hackster Events?</b>
+  <div id="hacksterEvents" style="border: 1px solid blue;"></div>
+  <br><b>Other Events</b>
+  <div id="events" style="border: 1px solid orange;"></div>
+ 
+</body>
+
+</html>
