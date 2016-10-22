@@ -1,0 +1,43 @@
+---
+author: No Content Found
+comments: true
+date: 2013-06-29 08:52:48+00:00
+layout: post
+link: /writing/254
+slug: '254'
+title: 'Startup Weekend Maker Edition: Organizer''s Perspective'
+wordpress_id: 90
+---
+
+This weekend is my first Startup Weekend as an organizer. I've attended 3 previously as a participant, and I've had my mind blown by the intensity of the weekend and the projects and teams that were created. Behind the scenes is a whole different level of intensity.
+When I contacted Tawnee, operations manager at Startup Weekend HQ, in January, begging her to do a Startup Weekend for Makers, I didn't really expect her to get back to me. A few days later she sent me some names of other people who might also be interested in organizing a Startup Weekend focused on hardware.  Apparently, people who wanted a Startup Weekend for makers had reached a critical mass, and when [Makerhaus](http://www.makerhaus.com/) agreed to host the event it was a done deal. The task of putting together an organizing team was put into my (inexperienced) hands. I reached out to some friends and was lucky to have a team of twelve rockstars join me. Since March we've been hustling for sponsorships, making lists of necessary materials, and reaching out to maker groups to find talented participants.
+
+
+
+
+It wasn't until June that it sunk in that Startup Weekend Maker Edition was going to be fundamentally different from any previous Startup Weekend. For one thing, it takes a lot more planning. We have to provide all the materials to make 10 successful hardware startups in one weekend. Also, it takes a lot more sponsorships, since materials cost money. Thankfully, sponsors like [Madrona](http://www.madrona.com/), [Impinj](http://www.impinj.com/), [Amazon](http://aws.amazon.com/), [10AK](http://www.1oaktechnologies.com/), [Blackedge](http://www.blackedge.com/), [PHC International](http://www.pchintl.com/), Coca Cola, and several more stepped in to cover our costs.
+
+
+
+
+Somewhere along the line in the planning, we did something right. That became clear tonight as soon as the participants started to arrive. They had the eager look of passionate people - people who really wanted to be there and were going to make this an amazing event. Unlike other tech events in Seattle, where people tend to avoid eye contact and stare at their feet, the people at this event talking, laughing and sketching their ideas on napkins. They seemed excited to have found an entire room full of people who shared their passion for making things.
+
+
+
+
+Another difference between this event and a normal Startup Weekend was the energy of the coaches and judges. Usually Startup Weekend coaches are too busy doing their own thing to be there for the whole event. But most of our coaches showed up on Friday night and were there to give the teams tips right from the start. We had coaches even offering to help carry food and set up tables and chairs.
+
+
+
+
+Some things were, of course, the same. There was a rousing speech by our facilitator John Morefield at 7pm. There were pitches from 7:30-8pm - and what an amazing bunch of pitches they were! An autonomous greenhouse...a simple piece of hardware to tell you if you have a sleep disorder...a gadget that will project your cell phone screen onto the ceiling...
+
+
+
+
+We took votes, and the 30+ great pitches were narrowed down to 10 excellent pitches. Teams formed. Sticky notes and note pads were passed out, and everyone went into planning mode.
+
+
+
+
+My task for tomorrow morning is to get the teams the materials they need. Each team filled out a materials spreadsheet, and we've compiled these to a master spreadsheet that contains everything from sheets of acrylic to urethane and silicon for casting, to hot glue guns and grommets. Getting these materials reminds me of a science fair project for adults. I'm excited to wake up early tomorrow and go on a scavenger hunt for parts. And I'm even more excited to see what the teams make with these parts. Let the fun begin!

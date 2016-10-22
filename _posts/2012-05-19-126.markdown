@@ -1,0 +1,22 @@
+---
+author: No Content Found
+comments: true
+date: 2012-05-19 09:07:47+00:00
+layout: post
+link: /writing/126
+slug: '126'
+title: Startup Weekend Starts Up!
+wordpress_id: 59
+categories:
+- web development
+- technology
+- Seattle
+---
+
+I was so excited for bike-to-work day this morning that I forgot to bring my laptop to work and barely made it to Startup Weekend. It takes me an hour to bike home, and another forty minutes to bike into Seattle. Guess how much time I had given myself to get from work to an event that starts at 5pm ? None. Zilch. Somehow I tend to bypass the mundane parts of existence, like eating, sleeping, and commute. I needed my laptop though, so I left work as early as I decently could and caught the bus using the most useful app I’ve downloaded so far,  "[One Bus Away](http://www.onebusaway.org/)" that accurately tells you the time of the next bus that is close to you. I’d love to personally shake the hand of the inventor of this app. Unfortunately, it couldn’t entirely save me from my absent mind.
+I watched the sun glinting off of Lake Washington as I surfed my new phone and tried to come up with an idea to pitch. I got off the bus and started to walk home to where my laptop was waiting. Suddenly I had a feeling of emptiness. My bike ! My bike was still on the bus ! The bus had pulled away and was gathering speed as it hurtled down 25th Ave. There was only one thing to do. I sprinted. I sprinted hard. Somehow I found myself reaching up and rapping on the driver’s window. The stunned driver stopped the bus (there had been a change of drivers halfway through the route, so she didn’t know that the bike on the front was mine). She just stared at me, incomprehensive for a second.
+
+
+
+
+"My bike !"  I shouted. "My bike!" That’s when she understood. Rush hour traffic was gathering behind us and there was no place for the bus to pull over, so she motioned for me to take it off quickly. I managed to get my bike off in record time, and I even had time to pick up my laptop from the apartment and catch the bus downtown, where I somehow found my way to Startup Weekend. That’s where I am now and that’s where I will be for the next 54 hours. Expect periodic updates.

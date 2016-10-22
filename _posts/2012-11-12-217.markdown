@@ -1,0 +1,26 @@
+---
+author: No Content Found
+comments: true
+date: 2012-11-12 22:49:22+00:00
+layout: post
+link: /writing/217
+slug: '217'
+title: How to Teach Yourself Web Development
+wordpress_id: 82
+---
+
+A couple months ago, my Mom mentioned that she was considering taking some web development courses. That gave me the idea to collect a list of free resources that I used to teach myself web development.
+The other week I attended[ Ignite Seattle](http://www.igniteseattle.com/) and had the chance to watch and excellent five-minute talk entitled "The Art of Explanation" by [Lee LeFever.](http://artofexplanation.com/) In it, he mentioned the "curse of knowledge" and how it makes explaining difficult because we can't relate to our audience. Thankfully, I don't have the curse of knowledge. I've learned everything I'll be writing about web development over the past two years, and much of what I'll be teaching I'll be learning or relearning as I write about it.
+
+
+
+
+I have a rough format in mind, and if you've ever wanted to teach yourself web development or just become more web savvy I'd encourage you to follow along. I'll assume that you've never done any web development.
+
+
+
+
+So let's get started! The first thing that you should do is sign up for an account on "[codeacademy.com](http://www.codecademy.com/)." We're going to go over HTML basics. HTML is basically the skeleton of the internet. Most of the text you look at online uses HTML. I'll talk more about codeacademy and other resources for learning HTML in my next post. Cheers!
+
+
+

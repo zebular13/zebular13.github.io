@@ -1,0 +1,20 @@
+title: monicahouston.com
+email: monica.s.houston@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Monica Houston is a writer, electronics tinkerer, and lots of other stuff
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.monicahouston.com/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: zebular13
+github_username:  zebular13
+# Disqus post comments
+disqus_shortname: monicahouston
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

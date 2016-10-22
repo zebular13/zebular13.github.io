@@ -1,0 +1,12 @@
+---
+author: Monica Houston
+comments: true
+date: 2012-04-12 05:06:35+00:00
+layout: post
+link: /writing/1
+slug: '1'
+title: First Post!
+wordpress_id: 50
+---
+
+It is 1:45am and my flight leaves at 6am this morning so I'm going to bed (I have my alarm set for 3:45am). First I have to stay up a couple more minutes to finish writing this. I couldn't get a car to drive to Seattle so I settled for a plane. No, I'm not driving the plane. I wish I were.

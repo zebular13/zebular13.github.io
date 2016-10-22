@@ -1,0 +1,112 @@
+---
+author: No Content Found
+comments: true
+date: 2015-11-09 00:00:00+00:00
+layout: post
+link: /writing/dataviz
+slug: dataviz
+title: My Favorite Data Viz Links
+wordpress_id: 194
+---
+
+Note: I wrote this over two years and never published it. I have dozens of draft posts like this just gathering dust because of my crippling perfectionism and self-doubt. I'm going through and posting the ones that are still relevant. Hopefully the links still work.
+
+I'm a huge data visualization nerd and I've been compiling a list of my favorite data viz sites in a google doc for several years now. Thought I'd share it with the world:
+
+**Infographics:**
+
+[http://anothera.net/v2/articles/25-stunning-examples-of-infographic-design](http://anothera.net/v2/articles/25-stunning-examples-of-infographic-design)
+
+[www.as-map.com/blog/](http://anothera.net/v2/articles/25-stunning-examples-of-infographic-design)
+
+[www.Chartporn.com](http://www.chartporn.com)
+
+[www.coolinfographics.com](http://www.coolinfographics.com)
+
+[www.goodmagazine.com](http://www.goodmagazine.com)
+
+[www.visualjournalism.com](http://www.visualjournalism.com)
+
+[inspiredm.com/20-essential-infographics-data-visualization-blogs](http://www.inspiredm.com/20-essential-infographics-data-visualization-blogs/)
+
+[informationisbeautiful.net](http://informationisbeautiful.net)
+
+[igraphicsexplained.blogspot.com](http://igraphicsexplained.blogspot.com)
+
+[infographnl.wordpress.com](http://infographnl.wordpress.com) (Dutch)
+
+[http://blog.infografiker.com/](http://blog.infografiker.com/) (Dutch)
+
+ 
+
+**Diagrams and Maps:**
+
+[www.sankey-diagrams.com](http://www.sankey-diagrams.com)
+
+[www.cartogrammar.com/blog](http://www.cartogrammar.com/blog)
+
+[www.scimaps.org](http://www.scimaps.org) - science “maps”
+
+[http://chartsbin.com](http://chartsbin.com) - statistics
+
+ 
+
+**Critiques:**
+
+[http://junkcharts.typepad.com/junk_charts/](http://junkcharts.typepad.com/junk_charts/)
+
+[http://cartastrophe.wordpress.com](http://cartastrophe.wordpress.com/) - bad maps
+
+**Various Data Visualization:**
+
+[http://flowingdata.com/](http://flowingdata.com/)
+
+[eagereyes.org](http://eagereyes.org)
+
+[http://www-958.ibm.com/software/data/cognos/manyeyes/](http://www-958.ibm.com/software/data/cognos/manyeyes/)
+
+[flowingdata.com](http://flowingdata.com/)
+
+[simplecomplexity.net](http://simplecomplexity.net)
+
+[wallstats.com](http://wallstats.com)
+
+[juiceanalytics.com/writing](http://juiceanalytics.com/writing)
+
+[bimeanalytics.com/blog](http://bimeanalytics.com/blog) - analytics + infographics
+
+[http://www.vizworld.com](http://www.vizworld.com)
+
+ 
+
+**Artistic:**
+
+[webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization](http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/)
+
+s[mashingmagazine.com/2007/08/02/data-visualization-modern-approaches](http://www.smashingmagazine.com/2007/08/02/data-visualization-modern-approaches/)
+
+[visualcomplexity.com](http://visualcomplexity.com)
+
+[datavisualization.ch](http://datavisualization.ch)
+
+[well-formed-data.net](http://well-formed-data.net)
+
+[accuracyandaesthetics.com](http://accuracyandaesthetics.com)
+
+[infosthetics.com](http://infosthetics.com)
+
+[www.bestiario.org](http://www.bestiario.org)
+
+[www.generatorx.no](http://www.generatorx.no)
+
+[http://prefuse.org/gallery/](http://prefuse.org/gallery/)
+
+[http://www.edwardtufte.com/tufte/](http://www.edwardtufte.com/tufte/)
+
+ 
+
+**Tools:**
+
+[http://code.google.com/apis/chart/](http://code.google.com/apis/chart/)
+
+[http://www.excelcharts.com/blog/wp-content/uploads/2008/02/howtomaps/how-to-create-a-thematic-map-in-excel.html](http://www.excelcharts.com/blog/wp-content/uploads/2008/02/howtomaps/how-to-create-a-thematic-map-in-excel.html)

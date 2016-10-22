@@ -1,0 +1,33 @@
+---
+author: No Content Found
+comments: true
+date: 2012-07-04 05:51:26+00:00
+layout: post
+link: /writing/166
+slug: '166'
+title: The Most Beautiful Person in the World
+wordpress_id: 71
+---
+
+I'm sitting in a café, getting frustrated with writing some JavaScript on a website that I've been working on. Every time this happens I get angsty. "I can't program. I'm just a dumb artsy person. I should have stuck to painting." I start to feel self-pity. What if I had gone to school for computer science? I would be miles ahead of where I am now. I'm the worst JavaScripter in Seattle and I know it. One irrational angst leads to another. What if none of my plans work out? What if I can't get a boat? What if I never move up in the world and stay in the same job forever?
+Suddenly the most beautiful person in the world walks in. She is about 5'2", maybe 25 years old, and has dyed red hair in a mullet and a spiky nose ring and two lip rings. She is wearing a hoody and ripped jeans. She is there with her date. He is a boy, about 14 years old, in a red raincoat that is too big for him. He walks trippingly and almost falls over himself as she guides him to his seat. "Do you want some tea?" she asks gently. Her voice is so gentle. He doesn't say anything. Instead, he puts his head down on the table and covers himself up with the big red sleeves of his red rain jacket. She pushes his tea toward him. He doesn't move.
+
+
+
+
+"Do you want something else?" She asks. He still doesn't reply. "I'll get you something else." She gets up and goes to the counter and orders him a parfait. While she is there, he sits up with a mischievous smile on his face, and starts to laugh, a deep throaty laugh, as he drinks her tea. I'm laughing too. He puts his head back in his arms when she comes back.
+
+
+
+
+"You _did_ want tea," The most beautiful person in the world smiles. "I brought you a parfait. Do you want this?" Again, he doesn't move. "Do you want to see the fire?" She goes over and lights the gas fire in the back of the cafe. He looks up, attentive. He walks over to look at the fire, murmuring. She keeps talking to him. Slowly, he starts to talk back, mostly nonsense, sometimes laughter. He eats the parfait hungrily. I can't stop watching them. It looks like she is the babysitter, or the caretaker. But she genuinely cares for this boy.
+
+
+
+
+I remember another night, a couple of days ago, when I was headed out dancing around 1am on Capital Hill. It was raining. A middle aged homeless woman was sitting in the dirt crying and a guy my age got off his bike to sit next to her. I couldn't stop staring. Usually in Seattle people shove homeless people out of the way, or else ignore them. But he was crouched in the dirt next to her, talking to her and she was nodding. He helped her to stand up. I couldn't stick around and watch, because I had to go dancing. Something about this scene sticks with me though. I have just come from a party of laughing, smiling, genuinely happy people wearing their finest clothes with their hair and makeup done to perfection. But here, in the mud on a street corner, I just saw the most beautiful person in the world.
+
+
+
+
+In the cafe, I go back to the JavaScript problem. I forget my angst. I stop comparing myself to my friends. I think about the finished product - the kids who will be playing with this website when it is finished. Maybe someone like this 14 year old boy in the red rain jacket will enjoy playing with it. I catch his eye and smile. He laughs, covers his eyes, and turns away. Then he peeks back at me and I laugh too.

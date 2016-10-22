@@ -1,0 +1,55 @@
+---
+author: No Content Found
+comments: true
+date: 2014-11-07 07:23:24+00:00
+layout: post
+link: /writing/388
+slug: '388'
+title: Using Beaglebone Black with Mavericks
+wordpress_id: 134
+categories:
+- Beaglebone
+- Beagleboard
+- Microcontrollers
+- technology
+tags:
+- beagleboard
+- beaglebone
+- mac osx
+- mavericks
+---
+
+![](http://static1.squarespace.com/static/54fcde57e4b07e462fdd69b4/5528a6ace4b0a8996a246af1/5528bc94e4b009016378ed97/1428733077052//img.jpg)
+  
+
+
+
+Grrr. I have spent so much time knocking my head against a wall, when the whole time it was just a simple fix.  I even got so frustrated switched over briefly to using my android tablet with a USB OTG, but that was a time-sink because it takes my a long time to program on a tiny keyboard.
+Anyway, here's the story.
+
+
+
+
+I started using the Beaglebone Black about two months ago. Everything worked perfectly, and I was impressed with its out of the box functionality. I flashed the latest Debian image, SSH'd into the Beaglebone, installed Python, etc. The world was beautiful.
+
+
+
+
+Then,  a couple days later, I tried to SSH into my Beaglebone, and I couldn't. Just to check, I went through the [getting started](http://beagleboard.org/getting-started) steps on the Beaglebone page again. None of them worked! The steps didn't even turn green. I wondered if the drivers might be the problem, so I tried reinstalling them.
+
+
+
+
+I tried the steps [here](http://waxpraxis.tumblr.com/post/16772215153/talking-to-the-beaglebone-with-osx-10-7-lion). They were a little outdated, but I thought they might work. When I went through the beaglebone getting started steps, the first two turned green, but I still couldn't start the web server. I was about to [reset the Pram and SMC](http://stackoverflow.com/questions/23318071/beagle-bone-black-not-detected-in-network-interface-on-mac), when I saw the fine print on the Beaglebone site:
+
+
+
+
+<blockquote>"Older software images require you to EJECT the BEAGLE_BONE drive to start the network. With the latest software image, that step is no longer required."
+> 
+> </blockquote>
+
+
+
+
+I ejected the beaglebone. I started the network. It worked.

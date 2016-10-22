@@ -1,0 +1,43 @@
+---
+author: No Content Found
+comments: true
+date: 2012-11-27 22:05:31+00:00
+layout: post
+link: /writing/224
+slug: '224'
+title: Beginning CSS (for free!)
+wordpress_id: 83
+categories:
+- Microcontrollers
+- technology
+- css
+- web development
+---
+
+Hopefully you've finished a couple of HTML tutorials on Codeacademy by now and you're on your way to becoming an HTML expert. Maybe you've already built a social media profile (HTML Basics II) or a clickable photo page (HTML Basics III). Now it's time to get into CSS.
+What is CSS? CSS stands for "Cascading Style Sheets," although knowing that probably won't help you much. The best way to understand CSS is to head over to [CSS Zen Garden](http://www.csszengarden.com/). As you can see, there are thousands of different themes for this website. Try clicking on a few. The only things that change are the layout, color, and style. All of the text and the basic format stay the same because the HTML hasn't changed. CSS is what determines most of how the page looks. If HTML is the skeleton, CSS is the skin.
+
+
+
+
+CSS Zen Garden has a link to a great collection of CSS resources right here: [http://www.mezzoblue.com/zengarden/resources](http://www.mezzoblue.com/zengarden/resources/)
+
+
+
+
+Although they only accept the best designs, getting your theme accepted to Zen Garden is something to work towards. First off though, we want to style our own website.
+
+
+
+
+There are already several CSS courses on Codacademy. It's probably a good idea to start off with the three CSS courses in the Web Fundamentals Section.
+
+
+
+
+After that, you can move on to this course: [http://www.codecademy.com/courses/create-a-personal-webpage/0#!/exercises/0](http://www.codecademy.com/courses/create-a-personal-webpage/0#!/exercises/0)
+
+
+
+
+Wow, that was easy! You can already build a nice looking web page!

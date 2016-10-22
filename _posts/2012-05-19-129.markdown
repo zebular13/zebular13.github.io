@@ -1,0 +1,52 @@
+---
+author: No Content Found
+comments: true
+date: 2012-05-19 09:28:05+00:00
+layout: post
+link: /writing/129
+slug: '129'
+title: Seattle Startup Weekend - Friday Night
+wordpress_id: 60
+categories:
+- web development
+- technology
+- Seattle
+---
+
+Friday night. Or is it Saturday morning ? I’m headed home on the bus now since they closed up 92 Lenora Street to keep people from sleeping over.
+Upon arriving at the venue, a derelict building that had been repainted and is still being refinished in an open, loft style, I was greeted by the event coordinators and handed a name tag on a red lanyard. I soon realized that red lanyards were for designers, blue lanyards for developers, yellow lanyards for business people, and green lanyards for event coordinators. White lanyards were for mentors and speakers.
+
+
+
+
+One of our speakers was tetris grand master Kevin Z Birrell (@kevinddr). He spoke on the power of determination and how it had helped him to improve to the level of TGM, or tetris grand master. I'm pretty sure that that's the level of tetris where the pieces are invisible and you have to guess where they're going to land. Afterwards we did an icebreaker where we had to pitch a company based on two key words that were given to us. Our team's were pitchfork and dental floss, so we came up with "Tridental, the world's first social flossing." A flosser attaches to your iphone and tracks each time you floss your teeth and sends a message to your friends, your mom, and your dentist to let them know that you've flossed. Someone please invent this in real life!
+
+
+
+
+After the ice breaker I wandered around the floor, awkwardly extending my hand to anyone I made eye contact with and introducing myself. « Hi, I’m Monica, » I would say to anyone who would listen. I had thought up a brief pitch – an idea that I had been thinking of for a while and had revisited while on the bus on the way there.  People seemed to like my idea, so when it was time I went ahead and pitched it. At least thirty people were pitching – probably a quarter of the crowd. Everyone was given 60 seconds to tell the crowd their vision. Someone pushed me in the right direction and I found myself on the podium holding a microphone in my hand. I started into my pitch, introducing myself to the crowd and giving an off-the-cuff intro. Suddenly, I ran out of words. I stared around awkwardly, opening and closing my mouth like a fish as my mind churned. The more I thought about what I was supposed to say, the less I knew what I was going to say, until I realized that I didn’t even know what I was doing anymore. My mind was blank. Suddenly I remembered « So we really need app developers ! » I managed to shout before the timer buzzed. I handed the microphone back to the coordinator and he smiled at me. I jumped off the stage and slunk to the back. Someone came up to me and congratulated me on my "good pitch." I realized that what had seemed like several minutes of awkwardness had only lasted a couple of seconds in reality.
+
+
+
+
+I watched the rest of the pitches. Some of them were brilliant. A team of therapists was pitching kinect games for autistic children. « SeaBNB » aimed to use the berths on board empty boats as hotel rooms.
+
+
+
+
+After the pitches were over, the name of each pitch was written on a sheet of paper and taped to the wall. We each had been given three sticky notes, and these counted as our three votes. Whichever three ideas you liked best you stuck a sticky note to. I hung out in line for the one bathroom as people cast their votes. When I got back, I was surprised to see the results. My pitch had a thick coating of sticky notes. It had been chosen as one of the final groups!
+
+
+
+
+Now it was time to assemble a crew. A whole host of electrical engineering students who happen to be awesome app devs gathered around our team. Two designers agreed that they were in. Several business people also joined us and began talking business plans and monetization. The final headcount was thirteen, but one of the coordinators came over and told us that we needed to thin out a bit, since that size group tended to be unwieldy and there were some groups that needed more people. We ended up with nine people and I volunteered myself to be the coordinator and liaison between developers, designers, and business people. Work started around 10pm and the hours passed quickly as we tried to come up with a viable plan of action.
+
+
+
+
+At midnight they kicked us out so we headed to Belltown Billiards to get our groove on. Work hard, play hard.
+
+
+
+
+I'll be back at 92 Lenora Avenue at 9am. Til then, I'll be trying to get some Z's.

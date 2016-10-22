@@ -1,0 +1,115 @@
+---
+author: No Content Found
+comments: true
+date: 2012-11-14 21:18:18+00:00
+layout: post
+link: /writing/221
+slug: '221'
+title: Build a Website in One Week with Codacademy
+wordpress_id: 172
+categories:
+- css
+- technology
+- web development
+- html
+---
+
+My mom asked me a very good question - "How long will it take to learn to code in Codeacademy?"
+Codeacademy started fall of 2011 with just a handful of lessons, and new lessons are being added weekly. Coding, like sailing, seems to be one of those things that you could spend your entire life learning. In fact, January of last year, codeacademy started a plan called "Code Year" where you could reasonably get through every single lesson in a year by making weekly progress (and still keep your friends and your full-time job). Fingers crossed that they'll do it again this January!
+
+
+
+
+But how long will it take before you can build your first website using what you learn on Codeacademy? Even if you have zero experience you can build a site within one week.
+
+
+
+
+By doing just 5 exercises a day you can get through ["HTML Fundamentals"](http://www.codecademy.com/courses/html-one-o-one) and ["Build your First Web Page"](http://www.codecademy.com/courses/week-3-html-project/0) in six days. In order to make the most out of Codeacademy, I recommend that you have a **goal**. For instance, wanting to build your own portfolio site could be a goal. Having a concrete goal will make Codeacademy more than a game - it will help you to connect what you're learning to the actual practice of building websites in the real world.
+
+
+
+
+Draw a layout of the website that you want to build on paper or mock it up in Photoshop or Gimp if you want to be fancy. For the first version, just focus on creating the text that you want to display when you open the page with a browser (we'll get into "hosting" sites in a later lesson.) For instance, your first website's code could look something like this:
+
+
+
+
+<blockquote><html>
+> 
+> 
+
+> 
+> <h1> Monica Houston's Portfolio </h1>
+> 
+> 
+
+> 
+> <h2>Everything is better on a boat</h2>
+> 
+> 
+
+> 
+> <p>Hi, I'm Monica Houston and I live on a boat...yada yada yada</p>
+> 
+> 
+
+> 
+> <h3> follow or friend me here</h3>
+> 
+> 
+
+> 
+> <ul>
+> 
+> 
+
+> 
+> <li>http://twitter.com/houstonconsult</li>
+> 
+> 
+
+> 
+> <li>http://www.behance.net/Mhouston</li>
+> 
+> 
+
+> 
+> <li>http://www.linkedin.com/in/houstonmonica</li>
+> 
+> 
+
+> 
+> <li>http://www.codecademy.com/users/zebular13</li>
+> 
+> 
+
+> 
+> <li>https://github.com/zebular13</li>
+> 
+> 
+
+> 
+> </ul>
+> 
+> 
+
+> 
+> </html>
+> 
+> </blockquote>
+
+
+
+
+Write your code into a text editing program like text-edit or notepad and save it as something like "index.html." Right click and open it with your browser. BAM! You've made your first real web page!
+
+
+
+
+So how do you make it pretty? Codeacademy has an entire series of courses on CSS - the language that is used to style HTML. I'll go over resources for learning CSS in my next post, but for now I'll leave you with this useful video:
+
+
+
+
+[Learn HTML in 30 Minute](http://www.youtube.com/watch?v=F62Fi03ZipY&feature=related)
